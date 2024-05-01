@@ -6,15 +6,16 @@ Specialization - 4 course series Natural Language Processing (NLP) is a subfield
 Contenido: 
 
 - **[C1]** Course 1. Natural Language Processing with Classification and Vector Spaces
-33 hours
+(33 hours)
+
 Inicio: 2024-04-21
 
 
 - **[C2]** Course 2. Natural Language Processing with Probabilistic Models
-30 hours
+(30 hours)
 
 - **[C3]** Course 3. Natural Language Processing with Sequence Models
-21 hours
+(21 hours)
 
 - **[C4]** Course 4. Natural Language Processing with Attention Models
-26 hours
+(26 hours)
