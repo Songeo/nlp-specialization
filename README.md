@@ -10,6 +10,8 @@ Contenido:
 
 Inicio: 2024-04-21
 
+Fin: 2024-05-21
+
 
 - **[C2]** Course 2. Natural Language Processing with Probabilistic Models
 (30 hours)
