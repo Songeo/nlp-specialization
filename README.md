@@ -16,6 +16,8 @@ Fin: 2024-05-21
 - **[C2]** Course 2. Natural Language Processing with Probabilistic Models
 (30 hours)
 
+Inicio: 2024-05-26
+
 - **[C3]** Course 3. Natural Language Processing with Sequence Models
 (21 hours)
 
