@@ -18,6 +18,8 @@ Fin: 2024-05-21
 
 Inicio: 2024-05-26
 
+Fin: 2024-85-22
+
 - **[C3]** Course 3. Natural Language Processing with Sequence Models
 (21 hours)
 
