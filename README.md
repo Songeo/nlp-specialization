@@ -26,6 +26,12 @@ Fin: 2024-08-22
 Inicio: 2024-08-22
 
 Fin: -
-
+  
 - **[C4]** Course 4. Natural Language Processing with Attention Models
 (26 hours)
+
+---
+
+## Refs
+
+-  [Tool Learning with Large Language Models: A Survey](https://arxiv.org/pdf/2405.17935)
