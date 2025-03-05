@@ -25,7 +25,7 @@ Fin: 2024-08-22
 
 Inicio: 2024-08-22
 
-Fin: -
+Fin: 2025-03-05
   
 - **[C4]** Course 4. Natural Language Processing with Attention Models
 (26 hours)
